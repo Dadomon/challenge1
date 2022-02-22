@@ -9,7 +9,6 @@ To set up this code follow the next steps.
 -git clone https://github.com/Dadomon/challenge1.git
 -cd Challenge1/source
 -php -f Challenge1.php  
--cd ..
--cat storage/fileOut/challenge.out
+-cat ../storage/fileOut/challenge.out
 
 See the output file on the project, you also can upload your owns files challenge.in Just make sure do not to use wrong files.
