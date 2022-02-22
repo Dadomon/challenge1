@@ -6,7 +6,7 @@ To set up this code follow the next steps.
 
 -open a terminal in your pc an copy the next comand line
 -cd ~
--git clone origin https://github.com/Dadomon/challenge1.git
+-git clone https://github.com/Dadomon/challenge1.git
 -cd Challenge1/source
 -php -f Challenge1.php  
 -cd ..
